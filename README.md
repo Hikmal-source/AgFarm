@@ -18,7 +18,7 @@
 
 ### 1. Halaman Home (Beranda Publik)
 *Halaman awal penayangan profil AgFarm, informasi umum pertanian, dan gerbang masuk bagi pengguna.*
-![Home AgFarm](assets/home.png)
+![Home AgFarm](assets/home.PNG)
 
 ### 2. Dashboard Utama (Petani & Mitra)
 *Halaman ringkasan data statis, grafik distribusi lahan, kalender agro, serta notifikasi sistem untuk petani dan mitra.*
