@@ -22,31 +22,31 @@
 
 ### 2. Dashboard Utama (Petani & Mitra)
 *Halaman ringkasan data statis, grafik distribusi lahan, kalender agro, serta notifikasi sistem untuk petani dan mitra.*
-![Dashboard AgFarm](assets/dashboard1.png)
+![Dashboard AgFarm](assets/dashboard1.PNG)
 
 ### 3. Panel Administrasi (Halaman Admin)
 *Halaman khusus super-admin untuk manajemen data pengguna, verifikasi pendaftaran akun petani/mitra, serta pengaturan konfigurasi global sistem AgFarm.*
-![Halaman Admin AgFarm](assets/admin.png)
+![Halaman Admin AgFarm](assets/admin.PNG)
 
 ### 4. Manajemen Lahan
 *Modul khusus untuk memetakan distribusi lahan, mencatat kapasitas luas tanah, serta memantau status kondisi lahan (Aktif/Kosong).*
-![Manajemen Lahan AgFarm](assets/lahan.png)
+![Manajemen Lahan AgFarm](assets/lahan.PNG)
 
 ### 5. Sistem Tanaman & Varietas
 *Tempat pengelolaan data komoditas pangan, melacak varietas yang sedang ditanam, serta estimasi masa waktu tanam secara *live*.*
-![Manajemen Tanaman AgFarm](assets/tanaman.png)
+![Manajemen Tanaman AgFarm](assets/tanaman.PNG)
 
 ### 6. Riwayat Hasil Panen
 *Modul pencatatan total tonase hasil panen yang sukses ditimbang dan disinkronisasikan ke dalam kalender agro.*
-![Data Panen AgFarm](assets/panen.png)
+![Data Panen AgFarm](assets/panen.PNG)
 
 ### 7. Laporan & Penjualan
 *Halaman pencatatan transaksi penjualan hasil bumi, grafik omzet, serta manajemen distribusi logistik ke mitra/pasar.*
-![Sistem Penjualan AgFarm](assets/penjualan.png)
+![Sistem Penjualan AgFarm](assets/penjualan.PNG)
 
 ### 8. Audit Log Sistem
 *Halaman monitoring internal yang menampilkan riwayat aktivitas pengguna (siapa, melakukan aksi apa, pada data apa, dan kapan waktunya) guna kebutuhan audit keamanan data pertanian.*
-![Audit Log AgFarm](assets/log.png)
+![Audit Log AgFarm](assets/log.PNG)
 
 ---
 
